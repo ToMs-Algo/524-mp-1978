@@ -6,7 +6,7 @@
 > https://doi.org/10.1145/355769.355776
 
 - for: multiple precision floating point arithmetic and evaluating elementary and special functions
-- calgo note: You almost surely want the newer version in netlib/bmp.
+- calgo note: **You almost surely want the newer version (June 1981) in [netlib/bmp](https://netlib.org/bmp/)**.
 
 files:
 
