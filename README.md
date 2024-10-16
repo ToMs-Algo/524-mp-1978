@@ -5,6 +5,9 @@
 > ACM Trans. Math. Softw. 4, 1 (March 1978), 71–81.
 > https://doi.org/10.1145/355769.355776
 
+- for: multiple precision floating point arithmetic and evaluating elementary and special functions
+- calgo note: You almost surely want the newer version in netlib/bmp.
+
 files:
 
 - `524.gz`
