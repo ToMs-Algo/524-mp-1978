@@ -8,6 +8,13 @@
 - for: multiple precision floating point arithmetic and evaluating elementary and special functions
 - calgo note: **You almost surely want the newer version (June 1981) in [netlib/bmp](https://netlib.org/bmp/)**.
 
+> In general, we recommend the use of a more modern package, for example:
+>
+> - Paul Zimmermann's MPFR package (written in C using GMP);
+> - David Bailey's MPFUN90 package (written in Fortran 90) or ARPREC package (written in C++/Fortran 90).
+>
+> —— https://maths-people.anu.edu.au/~brent/pub/pub043.html
+
 files:
 
 - `524.gz`
