@@ -5,6 +5,15 @@
 > ACM Trans. Math. Softw. 4, 1 (March 1978), 71–81.
 > https://doi.org/10.1145/355769.355776
 
+files:
+
+- `524.gz`
+  - `524.f77`: all in one file
+- `524.zip`
+  - `Doc/`
+  - `Drivers/`
+  - `Src/`
+
 
 ## USER'S GUIDE
 
